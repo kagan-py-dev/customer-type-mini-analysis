@@ -11,3 +11,4 @@
 9. Are there duplicate CustomerID values?
 10. Is any CustomerID associated with more than one customer_type?
 11. What are the main limitations of this dataset?
+
