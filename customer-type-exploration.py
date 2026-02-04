@@ -22,4 +22,5 @@ df["customer_type"].value_counts(normalize=True)*100
 df["CustomerID"].duplicated().sum()
 df.groupby("CustomerID")["customer_type"].nunique().gt(1).sum()
 
+
 df.head()
