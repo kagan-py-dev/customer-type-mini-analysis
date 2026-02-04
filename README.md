@@ -11,6 +11,8 @@ using a dataset that contains customer identifiers and customer type information
 ## Dataset
 - File: customers.csv
 - Columns: CustomerID, customer_type
+- - Format: CSV
+
 
 ## Limitation
 The dataset contains only categorical variables.
